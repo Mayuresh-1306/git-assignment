@@ -1,0 +1,1 @@
+-e "1) Learn Git basics\n2) Push to GitHub" 
