@@ -1,3 +1,4 @@
 "My first Git experiment" 
 "Second line from local edit" 
-Hello, I am new to github
+Hello, I am new to GitHub
+Learning Git branching
